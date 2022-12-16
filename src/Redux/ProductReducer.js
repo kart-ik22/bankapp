@@ -3,7 +3,7 @@ const InitialData ={
         {
             mobileName:"I-Phone11",
             software:"ios",
-            price:58000,
+            price:5800,
             storage:"128Gb",
         },
     ],
